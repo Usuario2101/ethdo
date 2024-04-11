@@ -243,7 +243,7 @@ ethdo validator credentials get --validator=123
 The result should start with the phrase "Ethereum execution address" and display the execution address you chose at the beginning of the process, for example:
 
 ```
-Ethereum execution address: 0x8f0844Fd51E31ff6Bf5baBe21DCcf7328E19Fd9F
+Ethereum execution address: 0xe873DCc61760c2bcA4EEb7479a81DCFE2d95514c
 ```
 
 If the result starts with the phrase "BLS credentials" then it may be that the operation has yet to be incorporated on the chain, please wait a few minutes and check again.  If this continues to be the case please obtain help to understand why the change operation failed to work.
